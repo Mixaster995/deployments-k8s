@@ -51,4 +51,3 @@ testcommit2
 testcommit3
 testcommit4
 testcommit5
-testcommit6
