@@ -43,5 +43,5 @@ $ ./to-export.sh
 IMPORTANT: `to-export.sh` cannot be undone back to github refs format with `to-ref.sh`. Please don't use it for local
 development, use it only for sharing your branch with someone else.
 
-asasdfasd
+asasdfasdasdf
 asdfasdf
