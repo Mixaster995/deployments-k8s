@@ -34,7 +34,7 @@ spec:
               readOnly: true
             - name: nsm-socket
               mountPath: /var/lib/networkservicemesh
-              readOnly: false
+              readOnly: true
           resources:
             requests:
               cpu: 100m
