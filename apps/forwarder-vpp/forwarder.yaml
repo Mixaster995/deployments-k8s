@@ -40,6 +40,8 @@ spec:
               valueFrom:
                 fieldRef:
                   fieldPath: metadata.name
+            - name: NSM_MAX_TOKEN_LIFETIME
+              value: 2h
           volumeMounts:
             - name: spire-agent-socket
               mountPath: /run/spire/sockets
